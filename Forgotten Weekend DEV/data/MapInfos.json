@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":4,"parentId":0,"scrollX":546,"scrollY":316.6666666666667},
+{"id":2,"expanded":true,"name":"Bed","order":1,"parentId":0,"scrollX":893.4545454545455,"scrollY":494.1818181818182},
+{"id":3,"expanded":true,"name":"Railway_station","order":5,"parentId":1,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
+{"id":4,"expanded":true,"name":"Hallway","order":2,"parentId":2,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
+{"id":5,"expanded":false,"name":"Intro","order":7,"parentId":0,"scrollX":540.6666666666666,"scrollY":307.3333333333333},
+{"id":6,"expanded":false,"name":"Lift","order":3,"parentId":4,"scrollX":540.6666666666666,"scrollY":307.3333333333333},
+{"id":7,"expanded":false,"name":"Train_Inside","order":6,"parentId":3,"scrollX":540.6666666666666,"scrollY":307.3333333333333}
+]
